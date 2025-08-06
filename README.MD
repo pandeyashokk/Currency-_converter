@@ -26,13 +26,19 @@ This project is a currency converter built with HTML, CSS, and JavaScript. It al
 
 ```bash
 git clone https://github.com/pandeyashokk/Currency-_converter.git
+```
 
 2. **Navigate to the project directory**:
+
+```bash
 cd Currency-_converter
+```
 
 3. **Open index.html**:
+```bash
 - Open index.html in a web browser to run the application locally.
 ```
+
 
 ## Usage
 
